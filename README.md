@@ -6,5 +6,5 @@ Para utilizar, clone o repositório e rode o comando abaixo no terminal;
 npm run dev
 ```
 
-Após, acesse <span style="border: 2px solid white; padding: 1px">http://localhost:3000/</span>.
+Após, acesse http://localhost:3000/.
 
