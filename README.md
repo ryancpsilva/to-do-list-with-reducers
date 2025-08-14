@@ -3,7 +3,7 @@
 Para testar, use os seguintes comandos:
 <h2>1. Clone o repositório</h2>
 ```bash
-git clone https://github.com/ryancpsilva/to-do-list-with-reducers-master.git
+git clone https://github.com/ryancpsilva/to-do-list-with-reducers.git
 ```
 <h2>2. Instale as dependências</h2>
 ```bash
